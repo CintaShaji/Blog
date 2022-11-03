@@ -1,0 +1,17 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color:palevioletred;
+    display: flex;
+    justify-content:space-around;
+   flex-wrap: wrap;
+}
+.card{
+    background-color:blueviolet;
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+
+    h1{
+        color: ;
+    }
